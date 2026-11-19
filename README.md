@@ -7,12 +7,13 @@
 
 ```text
 $ whoami
-  store operations manager · non-developer · AI workflow builder
+  store manager · AI workflow builder
 
 $ cat now.txt
-  ✓ 새벽 POS 수집 → 노션 정리 → 보고 초안 → 사람 검산
-  ✓ 노트북 두 대로 돌리는 작업 공장과 3D 상태판
-  … 수익 찾기 공장 · AI 대회 준비 중
+  ✓ POS 수집 → 노션 → 보고 초안
+  ✓ 숫자 검산과 결재는 사람
+  ✓ 노트북 두 대 작업 공장 · 3D 상태판
+  … 수익 공장 · AI 대회 준비 중
 ```
 
 **🔗 Portfolio** → [yeongman-builds.github.io](https://yeongman-builds.github.io)
